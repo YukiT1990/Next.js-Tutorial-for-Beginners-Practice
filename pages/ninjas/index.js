@@ -1,6 +1,8 @@
 const Ninjas = () => {
     return ( 
-        <h1>All Ninjas</h1>
+        <div>
+            <h1>All Ninjas</h1>
+        </div>
     );
 }
  
